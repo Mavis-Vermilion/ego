@@ -1,8 +1,0 @@
-cn\ego\search\dao\ItemInfoDao.class
-cn\ego\search\web\controller\ItemInfoController.class
-cn\ego\search\mapper\ItemInfoMapper.class
-cn\ego\search\service\ItemInfoService.class
-cn\ego\search\vo\ItemInfoVo.class
-cn\ego\search\service\impl\ItemInfoServiceImpl.class
-cn\ego\search\dao\impl\ItemInfoDaoImpl.class
-cn\ego\search\vo\PageBean.class

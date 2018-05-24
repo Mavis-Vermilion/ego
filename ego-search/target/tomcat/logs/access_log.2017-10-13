@@ -1,3 +1,0 @@
-127.0.0.1 - - [13/Oct/2017:18:13:44 +0800] "GET /search/itemInfo/import HTTP/1.1" 200 48 http-bio-8083-exec-1 400321
-127.0.0.1 - - [13/Oct/2017:19:29:52 +0800] "GET /search/itemInfo/import HTTP/1.1" 200 - http-bio-8083-exec-2 390656
-127.0.0.1 - - [13/Oct/2017:19:29:53 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8083-exec-3 5
