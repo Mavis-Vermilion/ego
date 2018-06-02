@@ -6,6 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>ego-common</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   
   
    <!-- jar包的依赖注入  ，由于该工程是一个父工程，所以jar包在该pom文件中只是声明-->
